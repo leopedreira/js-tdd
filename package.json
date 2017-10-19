@@ -1,0 +1,20 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Minha biblioteca de js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/leopedreira/js-tdd.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Leonardo Carlos Pedreira <leonardo.lcp2005@gmail.com>",
+  "license": "MIT"
+}
